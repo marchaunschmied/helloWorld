@@ -2,7 +2,7 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Hello World assafaf");
+		System.out.println("Hello World = Absinth");
 		
 		
 		for (int i = 0; i < 100; i++){
